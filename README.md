@@ -64,3 +64,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## Dalam Sistem-Informasi-Presensi-dan-Manajemen-aset-Dan-Detail-Barang-Setiap-Ruangan-
+Sistem Informasi Presensi dilengkapi fitur deteksi lokasi beserta Hitung jam Kerja, proses hitung jam kerja  dengan view pada MYSQL dan Pengelolaan aset sisi admin dilengkapi dengan fitur barcode, yang digunakan ketika discan barcode maka akan mengetahui setiap ruangan ada penanggung jawab dan deteksi barang didalam setiap ruangan dan memiliki Fitur Export excel pada report Presensi Karyawan dan Export excel untuk detail barang di setiap ruangan.
